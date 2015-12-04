@@ -1,0 +1,13 @@
+c:\users\dariusz\documents\visual studio 2012\Projects\Nielot\Nielot\bin\Debug\Nielot.exe.config
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\bin\Debug\Nielot.exe
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\bin\Debug\Nielot.pdb
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.csprojResolveAssemblyReference.cache
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.Form1.resources
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.Properties.Resources.resources
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.csproj.GenerateResource.Cache
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.exe
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.pdb
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\bin\Debug\Properties\Resources.resx
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\bin\Debug\pl-PL\Nielot.resources.dll
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\Nielot.Form1.pl-PL.resources
+C:\Users\Dariusz\Documents\Visual Studio 2012\Projects\Nielot\Nielot\obj\Debug\pl-PL\Nielot.resources.dll
